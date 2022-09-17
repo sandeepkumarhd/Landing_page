@@ -28,6 +28,7 @@
     color: aliceblue;
     font-size: 20px;
     font-family: "Roboto";
+    background-image: linear-gradient(to right ,#2c0aee,#f8f3f3);
 }
 .imgs-div{
     position: absolute;
@@ -68,6 +69,7 @@ h4{
     color: aliceblue;
     border: none;
     font-family:"Roboto" ;
+    background-image: linear-gradient(to right ,#3d1cf5,#fcf5f5);
 }
 .vector-img{
     position: absolute;
@@ -75,13 +77,16 @@ h4{
     top: 650px;
 }
 .main-div{
-    background-image: linear-gradient(rgba(25,14,5) ,rgba(32,5,12)), url(images/backcover.svg);
+    background-image: url(images/backcover.svg);
     background-position: 580px;
     background-repeat: no-repeat;
     height: 120vh;
 }
 .logo{
     margin-left: 20px;
+}
+.back{
+    
 }
 
 
